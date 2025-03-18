@@ -1,12 +1,2 @@
-/.Module.symvers.cmd
-/.modules.order.cmd
-/.shared_mem.ko.cmd
-/.shared_mem.mod.cmd
-/.shared_mem.o.cmd
-/Module.symvers
-/build
-/modules.order
-/shared_mem.mod
-/shared_mem.mod.c
-/shared_mem.mod.o
-/shared_mem.o
+/*.cmd
+/*.o
